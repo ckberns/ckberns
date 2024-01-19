@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, My name is Brandon.
+### Hi there 👋, my name is Brandon.
 #### Aspiring Software Developer
 
 
