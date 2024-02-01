@@ -9,7 +9,7 @@ My passion for programming is driven by my desire to understand how technology f
 
 
 - 🔭 I’m currently working on expanding my knowledge of Python. 
-- 🌱 I’m currently learning C++. 
+- 🌱 I’m currently learning C++ and SQL.
 - 👯 I’m looking to collaborate on projects that take me out of my comfort zone. 
 - 🤔 I’m looking for help with becoming a competent developer. 
 - 😄 Pronouns: he/him 
